@@ -2,6 +2,10 @@
 
 Projeto para realização da materia Gestão e Qualidade de Software.
 
+Resumo do software:
+
+É uma biblioteca virtual que possibilita o cadastro de livros, tais como sua classificação, descrição e nome. É possível fazer a busca dos livros pelo ID ou pelo próprio nome. Além disso, é possivel filtrá-los pela sua classificação.
+
 Objetivos:
 
  - Melhorar a qualidade do código existente.
@@ -26,4 +30,5 @@ Victor França - RA: 824122809
 Mateus Brigagão Tavares da Cunha - RA: 825117649
 
 Nathan Anaquim Procaccia - RA: 823117175
+
 
