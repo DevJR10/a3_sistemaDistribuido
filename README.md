@@ -1,4 +1,4 @@
-﻿# a3_sistemaDistribuido
+--------VirtualLibrary----------
 
 Projeto para realização da materia Gestão e Qualidade de Software.
 
@@ -16,8 +16,12 @@ Objetivos:
 
 - Garantir que a refatoração não quebre funcionalidades já existentes (com apoio de testes).
 
-Integrantes:
+Linguagens utilizadas:
 
+Back-end: JavaScript, Node JS.
+Front-end: Python (StreamLit)
+
+Integrantes:
 
 João Rodrigo Albertini - RA: 823215381
 
@@ -30,5 +34,8 @@ Victor França - RA: 824122809
 Mateus Brigagão Tavares da Cunha - RA: 825117649
 
 Nathan Anaquim Procaccia - RA: 823117175
+
+Luiz Felipe Dutra Xavier - RA: 823126087
+
 
 
